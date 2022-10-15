@@ -8,4 +8,4 @@ The circuit must include the following components:
 - Pneumatic scheme (likely a FluidSim `.ct` file)
 - Electric scheme (likely in the same file!)
 
-The circuit MUST NOT contain a PLC controller!
+The circut CANNOT contain a PLC controller, it's prohibited in this exercise!
